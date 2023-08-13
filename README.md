@@ -1,5 +1,5 @@
 # oibsip
-# web development and design internship
+# web development and designing internship
 # oasis infobyte
 Oasis Infobyte: Web Development and Designing Internship
 Completed Tasks:
