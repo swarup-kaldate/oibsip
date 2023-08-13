@@ -1,6 +1,5 @@
 # oibsip
 # web development and designing internship
-# oasis infobyte
 Oasis Infobyte: Web Development and Designing Internship
 Completed Tasks:
 Level 1 Task 1 : Landing Page
